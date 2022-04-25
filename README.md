@@ -1,4 +1,4 @@
-# sidehustle5.0
+# Sidehustle5.0 PHP Backend Group 16
 1. A simple Electric bill calucation based on conditions 
 You need to write a PHP program to calculate the electricity bills using a conditional statement.
 
