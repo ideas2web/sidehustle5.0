@@ -12,11 +12,11 @@ if ($units <= 50)
   $cost = $units * 3.50;
   echo "Cost of power is " . $cost;
 }
-elseif ($units > 50 && $units <= 100) {
+elseif ($units > 50 && $units <= 150) {
   $cost = $units * 4.00;
   echo "Cost of power is " . $cost;
 }
-elseif ($units > 100 && $units <= 250) {
+elseif ($units > 150 && $units <= 250) {
   $cost = $units * 5.20;
   echo "Cost of power is " . $cost;
 }
